@@ -1,4 +1,4 @@
-# ghost-repos
+# Ghost-Repos on Github
 
 I was originally analyzing GitHub repositories, trying to find those with the fastest star growth in the last two days, but I unexpectedly discovered a large number of "ghost repositories."
 
@@ -77,3 +77,9 @@ https://github.com/G4tito?tab=followers   (backup     https://ghostarchive.org/a
 https://github.com/elrebelde21      (backup    https://ghostarchive.org/archive/tiCSv )
 
 
+# Identity
+My ETH wallet address: 0xd4fC8280410376701849a58c0F2F7Be7BD4A8C9e
+
+Sui wallet address: 0xf737052e6963d2cccd753aa4f732ecf807abd48b3a523bf6bf291bffdff2b075
+
+After uploaded to arweave, there should also be an arweave wallet address.
