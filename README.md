@@ -83,3 +83,6 @@ My ETH wallet address: 0xd4fC8280410376701849a58c0F2F7Be7BD4A8C9e
 Sui wallet address: 0xf737052e6963d2cccd753aa4f732ecf807abd48b3a523bf6bf291bffdff2b075
 
 After uploaded to arweave, there should also be an arweave wallet address.
+
+There is also an early proof here.  https://viewblock.io/arweave/tx/0ekQ1xG6AFXIf0xCZB1ZVU4D8N85-OuQ7nH46QFFy9g
+
