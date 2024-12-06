@@ -81,22 +81,64 @@
 
 有 5 个人 follow 了这个账号！而且看他的 star 历史，可以明确他是攻击者之一。
 
-而且该账号有真实的 Github 代码提交记录，说明它曾经是个活人！
+而且该账号有真实的 Github 代码提交记录，说明它曾经是个活人！（记住这个叫 SimpleBot 的仓库）
 
 ![image](https://github.com/user-attachments/assets/babc1c60-4654-4ac7-8f78-f847c785e345)
 
 我们来看看是谁 follow 了这个 G4tito
 
-![image](https://github.com/user-attachments/assets/8526e5bf-7515-4796-94ee-640b65c57e34)
+![image](https://github.com/user-attachments/assets/f8cf42d9-0e80-4947-921f-0e9828b4fed3)
 
-这位 elrebelde21 可是个大人物！ 看看他的 Github 主页
+这两位都是大人物。看看他们的 Github 主页长啥样：
 
 ![image](https://github.com/user-attachments/assets/fa1cc85b-c8ce-43d0-a5bd-c9e4fc40228d)
 
-他也同样参与过一个叫 SimpleBot 的项目。前面提到的明确攻击者 G4tito 也有同名的仓库。
+BrunoSobrino 和 elrebelde21 这两位大 V， 曾经合作过一个开源项目。
 
-![image](https://github.com/user-attachments/assets/a4bd6e18-e2b5-4304-9d60-39c24be7e8fe)
+![image](https://github.com/user-attachments/assets/4ef32903-878f-4ace-9828-5b9167550ef0)
 
-这位大V 在 youtube 上面还有账号呢
+和明确攻击者做的项目是同名的！
 
+至此，逻辑链如下：
+
+![image](https://github.com/user-attachments/assets/59fab822-83a3-4af9-8d00-dffe0156af08)
+
+可见 BrunoSobrino 这两位大牛，跟攻击者 G4tito 是有联系的。
+
+其实到这里基本破案了。操纵 180 多个账号是短时间内点赞和创建仓库，批量生成内容，不太可能用人工完成，应该是用 Github API 自动化做的。这两位大牛和明确攻击者，做的项目都是那种 WhatsAPP 机器人，技术栈也相当吻合了。
+
+# 证据
+
+我知道曝光之后，他们肯定会删库的，因此我已经提前把所有网页都备份到 GhostArchive 了。
+
+我挖掘到的恶意仓库列表，也全都放在了区块链上，形成铁证。
+
+各位看官不必信任我，请直接去查看区块链。所有记录都在里面。
+
+https://viewblock.io/arweave/tx/Cppr-Bus0TxC6_zqD-sJitVz4Ne3sR0noJknsuyhZ4Q
+
+# 宣传
+
+我知道一些媒体朋友会见到这篇文章，我希望你们帮我推广。
+
+我只是一个不起眼的小人物，这个故事不推广的话，就只能烂在我的肚子里。
+
+我认为这是个好故事。中国偏远山区的无业青年，单枪匹马，通过大数据筛查的方式，破获了一起 GitHub 恶意软件钓鱼事件，涉及的大V在 Github 上有接近一千关注者，有多达 180 个虚假账号，长达 4 年的活动。 这些 buff 叠在一起·相当有故事性了。
+
+更重要的是，这件“真人真事” 是可以被检验的。所有的记录都在区块链上，涉事人删库也没用。
+
+所有人都可以重走一遍我的侦查之旅，仔细检验每个网页备份。
+
+
+把这个故事发扬出去，能有什么好处：
+
+我可以用区块链私钥签署一条消息，内容是“xx媒体慧眼识珠，是第一批愿意帮助我推广这个故事的人” 。消息一旦签署上链，所有人都可以校验，而且不可篡改，如同铁证，连我自己也无法反悔。
+
+凭借这样一条消息，我越火，你的含金量越高。
+
+我只是一个闷蛋理工男，不太会讲故事，但上面都是真事儿，每个细节都可以检查。
+
+如果你觉得这个故事可以帮我讲好的话，联系我。
+
+V： drinking-soda
 
