@@ -1,4 +1,4 @@
-# Ghost-Repos on Github
+# Ghost-Repos on Github  | [中文](README-zh.md)
 
 I was originally analyzing GitHub repositories, trying to find those with the fastest star growth in the last two days, but I unexpectedly discovered a large number of "ghost repositories."
 
