@@ -91,7 +91,8 @@
 
 这两位都是大人物。看看他们的 Github 主页长啥样：
 
-![image](https://github.com/user-attachments/assets/fa1cc85b-c8ce-43d0-a5bd-c9e4fc40228d)
+![image](https://github.com/user-attachments/assets/d9f342e1-f8f1-48d3-9858-83ca075411bf)
+
 
 BrunoSobrino 和 elrebelde21 这两位大 V， 曾经合作过一个开源项目。
 
@@ -103,7 +104,7 @@ BrunoSobrino 和 elrebelde21 这两位大 V， 曾经合作过一个开源项目
 
 ![image](https://github.com/user-attachments/assets/59fab822-83a3-4af9-8d00-dffe0156af08)
 
-可见 BrunoSobrino 这两位大牛，跟攻击者 G4tito 是有联系的。
+可见 BrunoSobrino 和 elrebelde21 这两位大牛，跟攻击者 G4tito 是有联系的。
 
 其实到这里基本破案了。操纵 180 多个账号是短时间内点赞和创建仓库，批量生成内容，不太可能用人工完成，应该是用 Github API 自动化做的。这两位大牛和明确攻击者，做的项目都是那种 WhatsAPP 机器人，技术栈也相当吻合了。
 
@@ -136,7 +137,7 @@ https://viewblock.io/arweave/tx/Cppr-Bus0TxC6_zqD-sJitVz4Ne3sR0noJknsuyhZ4Q
 
 凭借这样一条消息，我越火，你的含金量越高。
 
-我只是一个闷蛋理工男，不太会讲故事，但上面都是真事儿，每个细节都可以检查。
+我不太会讲故事，但上面都是真事儿，每个细节都可以检查。
 
 如果你觉得这个故事可以帮我讲好的话，联系我。
 
