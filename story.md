@@ -81,7 +81,7 @@
 
 有 5 个人 follow 了这个账号！而且看他的 star 历史，可以明确他是攻击者之一。
 
-而且该账号有真实的 Github 代码提交记录，说明它曾经是个活人！（记住这个叫 SimpleBot 的仓库）
+而且该账号有真实的 Github 代码提交记录（记住这个叫 SimpleBot 的仓库）
 
 ![image](https://github.com/user-attachments/assets/babc1c60-4654-4ac7-8f78-f847c785e345)
 
