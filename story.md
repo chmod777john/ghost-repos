@@ -102,7 +102,8 @@ BrunoSobrino 和 elrebelde21 这两位大 V， 曾经合作过一个开源项目
 
 至此，逻辑链如下：
 
-![image](https://github.com/user-attachments/assets/59fab822-83a3-4af9-8d00-dffe0156af08)
+![image](https://github.com/user-attachments/assets/ee7e5b24-6d16-41bd-abc0-1ad7335d547d)
+
 
 可见 BrunoSobrino 和 elrebelde21 这两位大牛，跟攻击者 G4tito 是有联系的。
 
